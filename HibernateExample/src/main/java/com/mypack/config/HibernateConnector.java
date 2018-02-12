@@ -18,8 +18,8 @@ public class HibernateConnector {
 		// Connection information..
 		cfg.setProperty("hibernate.connection.driver_class", "com.mysql.jdbc.Driver");
 		cfg.setProperty("hibernate.connection.url", "jdbc:mysql://localhost:3306/test");
-		cfg.setProperty("hibernate.connection.username", "root");
-		cfg.setProperty("hibernate.connection.password", "153197");
+		cfg.setProperty("hibernate.connection.username", "****");
+		cfg.setProperty("hibernate.connection.password", "****");
 	//	cfg.setProperty("hibernate.show_sql", "true");
 
 		// Mapping Resources..
